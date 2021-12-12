@@ -23,6 +23,7 @@ User wnats a social media network that uses NoSQL so that the database and can h
     - move to insomnia to see routes in action using routes provided
 
 ###### Video of Tutorial
+https://watch.screencastify.com/v/VHfnSjAH1xw0iEVLFPZE
 
 ###### Made by
 Andrea Spencer and help from Suresh on Slack!
