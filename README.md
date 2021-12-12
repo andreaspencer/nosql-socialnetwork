@@ -1,6 +1,6 @@
 # NoSQL Social Network API
 ## Description
-User wnats a social media network that uses NoSQL so that the database and can handle a large amount of unstructured data.
+User wants a social media network that uses NoSQL so that the database and can handle a large amount of unstructured data.
 
 ### Acceptance Criteria
 * Mongoose models synced to MongoDB Database
