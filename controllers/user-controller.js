@@ -88,7 +88,7 @@ const userController = {
                     res.status(404).json({ message: 'No user found with this id' })
                     return;
                 }
-                res.json({ message: 'Successfullt deleted the friend' });
+                res.json({ message: 'Successfully deleted the friend' });
             })
             .catch(err => res.json(err));
         })
